@@ -1,0 +1,299 @@
+.buyonepancake {
+    margin-right: 23px;
+    height: 10vh;
+    width: 24vw;
+    background-color: #FF5E5B;
+    color: white;
+    border-radius: 34px;
+    padding: 21px;
+    padding-top: 2px;
+    text-align: center;
+}
+.mynavigationbar
+{
+    background: transparent linear-gradient(133deg, #930A45 0%, #740E7F 11%, #740E7F 14%, #491553 22%, #1D1D26 45%, #1D1D26 74%, #141B69 100%) 0% 0% no-repeat padding-box;
+}
+.nav-item
+{
+    color:white;
+}
+.buyonepancake:hover{
+
+    margin-right: 23px;
+    height: 10vh;
+    width: 24vw;
+    background-color: white;
+    color: red;
+    border-radius: 34px;
+    padding: 21px;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.whitepaper {
+    margin-right: 23px;
+    height: 10vh;
+    width: 28vw;
+    background-color: purple;
+    border: 1px solid white;
+    border-radius: 34px;
+    padding: 12px;
+    text-align: center;
+    color: white;
+    overflow-wrap: break-word;
+}
+
+.cardviews {
+    justify-content: space-between;
+}
+
+.heading {
+    color: #F3F4F8;
+    font: normal normal 600 40px/60px Poppins;
+}
+
+
+.image {
+    height: auto;
+    width: fit-content;
+}
+
+.mainheading {
+
+    margin-top: 19vh
+}
+
+.contactus {
+    border-radius: 24px;
+    border: solid;
+
+}
+
+.namesheading {
+    font: normal normal bold 40px/60px Metropolis;
+}
+
+
+
+
+.aboutheading {
+
+    font: normal normal 600 40px/60px Poppins;
+    color: #F3F4F8;
+}
+
+.aboutpara {
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+    opacity: 1;
+}
+
+.memesheading {
+
+    font: normal normal bold 40px/60px Metropolis;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+}
+
+.para1 {
+    color: #7C7B97;
+}
+
+.para2 {
+    /* text-align: center;
+    font: normal normal bold 22px/34px Metropolis;
+    letter-spacing: 0px; */
+    color: #7C7B97;
+    /* margin-right: 34px;
+    margin-left: 234px;
+    left: 383px;
+    width: 674px;
+    height: 65px; */
+}
+
+.para3 {
+    color: #7C7B97;
+}
+
+.blockhead {
+
+
+    font: normal normal 600 40px/60px Poppins;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.memepara {
+
+    text-align: center;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+    opacity: 1;
+
+}
+
+.blockchainpara1 {
+    color: #7C7B97;
+}
+
+.blockchainpara2 {
+    color: #7C7B97;
+    
+}
+
+.portfolioimage {
+    width: 9vw;
+    margin: 23px;
+    height: 12vh;
+    text-align: center;
+    justify-content: center;
+
+}
+.mainimage
+{
+    height:45%;
+    width:80%
+}
+
+
+.footer-para {
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+
+}
+
+.footerdescrip {
+    font: normal normal normal 16px/18px Poppins;
+    letter-spacing: 0px;
+    font-size: 12px;
+}
+
+.footersection {
+    justify-content: space-between;
+}
+
+.totalclass {
+    background: transparent linear-gradient(133deg, #930A45 0%, #740E7F 11%, #740E7F 14%, #491553 22%, #1D1D26 45%, #1D1D26 74%, #141B69 100%) 0% 0% no-repeat padding-box;
+}
+
+.sub_heading {
+    font: normal normal normal 24px/40px Poppins;
+}
+
+.description {
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+}
+
+.memecomunityheading {
+    text-align: center;
+    font: normal normal bold 48px/70px Metropolis;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+}
+
+.portfoiomatter {
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+    opacity: 1;
+}
+
+.memeportfolio {
+
+    font: normal normal normal 24px/40px Poppins;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+}
+
+.tokenutility {
+    text-align: center;
+    font: normal normal bold 48px/70px Metropolis;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+}
+
+.tokenpara {
+    text-align: center;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+    opacity: 1;
+}
+
+.access {
+    font: normal normal 600 20px/40px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    justify-content: center;
+}
+
+.accesspara {
+    text-align: center;
+    font: normal normal normal 16px/32px Poppins;
+    letter-spacing: 0px;
+    color: #7C7B97;
+    opacity: 1;
+}
+
+.footersection {
+    text-align: left;
+    font: normal normal normal 16px/18px Poppins;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+    overflow-wrap: break-word;
+}
+.line
+{
+    background-color: white;
+}
+
+.footer-para {
+    text-align: left;
+    font: normal normal normal 16px/18px Poppins;
+    letter-spacing: 0px;
+    color: #F3F4F8;
+    opacity: 1;
+}
+.subheading{
+    color: white;
+}
+.nav-item:hover{
+    background-color:red
+    
+
+}
+.navbaritems
+{
+    float: right;
+}
+@media only screen and (max-width:500px)
+{
+    .mainimage{
+            width:43%;
+            height:26%;
+            margin:57%;
+            margin-left: 34px;
+    }
+    .mainimage1{
+        width:62%;
+    margin-top:86%;
+    margin-left:22px;
+    height:30%
+    
+}
+}
+@media  only screen and (max-width:767px) {
+   body{
+       overflow-x: hidden !important   }
+    
+}
